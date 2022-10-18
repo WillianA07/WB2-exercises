@@ -1,6 +1,6 @@
-var assets = 300
-var debts = 150
+var assets = 300;
+var debts = 150;
 
-var netWorth = assets - debts
+var netWorth = assets - debts;
 
-console.log("Your net worth is " + netWorth)
+console.log("Your net worth is " + netWorth);
