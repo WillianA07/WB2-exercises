@@ -12,38 +12,25 @@ var b1 = parseInt(b);
 var c1 = parseInt(c);
 var d1 = parseInt(d);
 
-console.log(a1);
-console.log(b1);
-console.log(c1);
-console.log(d1);
+console.log(a1, b1, c1, d1);
 
 var a2 = parseFloat(a);
 var b2 = parseFloat(b);
 var c2 = parseFloat(c);
 var d2 = parseFloat(d);
 
-console.log(a2);
-console.log(b2);
-console.log(c2);
-console.log(d2);
+console.log(a2, b2, c2, d2);
 
 var a3 = Number(a);
 var b3 = Number(b);
 var c3 = Number(c);
 var d3 = Number(d);
 
-console.log(a3);
-console.log(b3);
-console.log(c3);
-console.log(d3);
+console.log(a3, b3, c3, d3);
 
 var a4 = +a;
 var b4 = +b;
 var c4 = +c;
 var d4 = +d;
 
-console.log(a4);
-console.log(b4);
-console.log(c4);
-console.log(d4);
-
+console.log(a4, b4, c4, d4);
